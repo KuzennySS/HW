@@ -1,0 +1,5 @@
+# Project exclude paths
+/HW2/target/
+/HW1/target/
+prog.iml
+HW.iml
